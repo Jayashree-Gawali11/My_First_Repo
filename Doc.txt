@@ -1,2 +1,5 @@
 First commit in Doc file in branchNew5
 Second commit in Doc file in branchNew5
+
+First commit in Doc file in branchNew6
+Second commit in Doc file in branchNew6
